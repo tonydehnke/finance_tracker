@@ -30,7 +30,7 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
-gem 'stock_quote'
+gem 'stock_quote', '~> 2.0.0'
 gem 'font-awesome-rails'
 
 # Use ActiveStorage variant
