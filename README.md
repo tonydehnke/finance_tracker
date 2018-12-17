@@ -1,5 +1,9 @@
 # README
 
+Finance Tracker app from The Complete Ruby on Rails Developer Course - Udemy
+
+____________________________________________________________________________
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
